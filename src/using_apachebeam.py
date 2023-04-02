@@ -90,4 +90,8 @@ def start_processing():
 
 
 if __name__ == "__main__":
+    '''
+    Apache Beam is new for me but I read about it over the weekend and put some pseudo code 
+    which I hope will give an idea to you
+    '''
     start_processing()
